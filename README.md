@@ -1,8 +1,7 @@
 <h1>Hi, I'm Richard! </h1>
 
 <h2>Cybersecurity Projects:</h2>
-<b> Incident Response Case Study</b>
--Insert link here
+<b> Incident Response Case Study</b> -Insert link here
 
 <h2>📺 Popular YouTube Videos</h2>
 
