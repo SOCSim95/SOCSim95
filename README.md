@@ -2,7 +2,7 @@
 
 <h2>Cybersecurity Projects:</h2>
 <b> Incident Response Case Study</b>
-<body>Insert link here</body>
+-Insert link here
 
 <h2>📺 Popular YouTube Videos</h2>
 
